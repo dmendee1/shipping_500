@@ -1,0 +1,9 @@
+{
+  "name": "shipping_500",
+  "version": "1.0.0",
+  "description": "Shipping program",
+  "main": "index.js",
+  "repository": "https://github.com/dmendee1/shipping_500.git",
+  "author": "mendamar.d",
+  "license": "ISC"
+}
